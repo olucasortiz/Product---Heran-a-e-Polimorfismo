@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\ExProduct,HerancaEpolimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4960D8-EA74-45D9-8799-0EE529BE1533}|ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo.csproj|c:\\users\\lucas\\source\\repos\\exproduct,herancaepolimorfismo\\exproduct,herancaepolimorfismo\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4960D8-EA74-45D9-8799-0EE529BE1533}|ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo.csproj|solutionrelative:exproduct,herancaepolimorfismo\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4960D8-EA74-45D9-8799-0EE529BE1533}|ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo.csproj|c:\\users\\lucas\\source\\repos\\exproduct,herancaepolimorfismo\\exproduct,herancaepolimorfismo\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4960D8-EA74-45D9-8799-0EE529BE1533}|ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo.csproj|solutionrelative:exproduct,herancaepolimorfismo\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4960D8-EA74-45D9-8799-0EE529BE1533}|ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo.csproj|c:\\users\\lucas\\source\\repos\\exproduct,herancaepolimorfismo\\exproduct,herancaepolimorfismo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4960D8-EA74-45D9-8799-0EE529BE1533}|ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo.csproj|solutionrelative:exproduct,herancaepolimorfismo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4960D8-EA74-45D9-8799-0EE529BE1533}|ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo.csproj|c:\\users\\lucas\\source\\repos\\exproduct,herancaepolimorfismo\\exproduct,herancaepolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4960D8-EA74-45D9-8799-0EE529BE1533}|ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo.csproj|solutionrelative:exproduct,herancaepolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "ExProduct,HerancaEpolimorfismo\\Entities\\UsedProduct.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "ExProduct,HerancaEpolimorfismo\\Entities\\UsedProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:23:10.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "ExProduct,HerancaEpolimorfismo\\Entities\\ImportedProduct.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo\\Entities\\ImportedProduct.cs",
+              "RelativeToolTip": "ExProduct,HerancaEpolimorfismo\\Entities\\ImportedProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:22:58.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExProduct,HerancaEpolimorfismo\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo\\Entities\\Product.cs",
+              "RelativeToolTip": "ExProduct,HerancaEpolimorfismo\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:22:50.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "ExProduct,HerancaEpolimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\ExProduct,HerancaEpolimorfismo\\ExProduct,HerancaEpolimorfismo\\Program.cs",
+              "RelativeToolTip": "ExProduct,HerancaEpolimorfismo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T19:22:09.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

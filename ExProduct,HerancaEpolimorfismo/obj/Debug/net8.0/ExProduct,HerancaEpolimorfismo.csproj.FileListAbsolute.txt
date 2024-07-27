@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\ExProduct,HerancaEpolimorfismo\ExProduct,HerancaEpolimorfismo\bin\Debug\net8.0\ExProduct,HerancaEpolimorfismo.exe
+C:\Users\lucas\source\repos\ExProduct,HerancaEpolimorfismo\ExProduct,HerancaEpolimorfismo\bin\Debug\net8.0\ExProduct,HerancaEpolimorfismo.deps.json
+C:\Users\lucas\source\repos\ExProduct,HerancaEpolimorfismo\ExProduct,HerancaEpolimorfismo\bin\Debug\net8.0\ExProduct,HerancaEpolimorfismo.runtimeconfig.json
+C:\Users\lucas\source\repos\ExProduct,HerancaEpolimorfismo\ExProduct,HerancaEpolimorfismo\bin\Debug\net8.0\ExProduct,HerancaEpolimorfismo.dll
+C:\Users\lucas\source\repos\ExProduct,HerancaEpolimorfismo\ExProduct,HerancaEpolimorfismo\bin\Debug\net8.0\ExProduct,HerancaEpolimorfismo.pdb
+C:\Users\lucas\source\repos\ExProduct,HerancaEpolimorfismo\ExProduct,HerancaEpolimorfismo\obj\Debug\net8.0\ExProduct,HerancaEpolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ExProduct,HerancaEpolimorfismo\ExProduct,HerancaEpolimorfismo\obj\Debug\net8.0\ExProduct,HerancaEpolimorfismo.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExProduct,HerancaEpolimorfismo\ExProduct,HerancaEpolimorfismo\obj\Debug\net8.0\ExProduct,HerancaEpolimorfismo.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExProduct,HerancaEpolimorfismo\ExProduct,HerancaEpolimorfismo\obj\Debug\net8.0\ExProduct,HerancaEpolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExProduct,HerancaEpolimorfismo\ExProduct,HerancaEpolimorfismo\obj\Debug\net8.0\ExProduct,HerancaEpolimorfismo.dll
+C:\Users\lucas\source\repos\ExProduct,HerancaEpolimorfismo\ExProduct,HerancaEpolimorfismo\obj\Debug\net8.0\refint\ExProduct,HerancaEpolimorfismo.dll
+C:\Users\lucas\source\repos\ExProduct,HerancaEpolimorfismo\ExProduct,HerancaEpolimorfismo\obj\Debug\net8.0\ExProduct,HerancaEpolimorfismo.pdb
+C:\Users\lucas\source\repos\ExProduct,HerancaEpolimorfismo\ExProduct,HerancaEpolimorfismo\obj\Debug\net8.0\ExProduct,HerancaEpolimorfismo.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ExProduct,HerancaEpolimorfismo\ExProduct,HerancaEpolimorfismo\obj\Debug\net8.0\ref\ExProduct,HerancaEpolimorfismo.dll
